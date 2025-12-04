@@ -2,9 +2,8 @@ The deliverables needed for the Tableau Trailhead modules and the Tableau Public
 
 Assignment: Tableau Trailhead Modules &amp; Data Storytelling Viz
 
-Viz
-
-](https://public.tableau.com/views/MyFirstVizonTableauPublic_17648331727960/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Link:
+https://public.tableau.com/views/MyFirstVizonTableauPublic_17648331727960/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Tableau Trailhead Basics
 
