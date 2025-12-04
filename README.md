@@ -19,7 +19,6 @@ https://public.tableau.com/views/MyFirstVizonTableauPublic_17648331727960/Dashbo
 
 ### Tableau Public Visualization  
 ![My Viz](images/viz.png)
-(images/viz_.png)
 
 **Published Viz URL:**  
 https://public.tableau.com/views/MyFirstVizonTableauPublic_17648331727960/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
