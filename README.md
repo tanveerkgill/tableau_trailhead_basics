@@ -7,7 +7,6 @@ https://public.tableau.com/views/MyFirstVizonTableauPublic_17648331727960/Dashbo
 
 # Tableau Trailhead Basics
 
-This repository contains proof of completing two Tableau Trailhead modules and one Tableau Public visualization for the assignment.
 
 ---
 ## Screenshots
